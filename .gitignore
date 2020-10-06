@@ -1,4 +1,8 @@
+# folders
 bin
 etc
 handouts
 lib
+
+# assembly
+*.s
