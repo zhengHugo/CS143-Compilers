@@ -1,4 +1,4 @@
-class Main {
+class Main inherits IO{
 
-    main():Int { 1 };
+    main():Object { out_string("Hello World!\n") };
 };
